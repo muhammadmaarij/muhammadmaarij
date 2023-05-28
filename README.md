@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Maarij </h1>
+<h1 align="center">Hi, I'm Muhammad Maarij</h1>
 <h3 align="center">DevOps Fellow Bytewise | Campus Co-Lead GDSC-CUI | React Native Developer | Ambassador DeepLearning.Ai</h3>
 
 <h3 align="left">Connect with me:</h3>
