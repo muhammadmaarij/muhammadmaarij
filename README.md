@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Maarij </h1>
-<h3 align="center">Developer Intern at Emumba | Campus Co-Lead at GDSC-CUI | React Native Developer | Ambassador at DeepLearning.Ai</h3>
+<h3 align="center">Developer Intern at Emumba | Campus Co-Lead at GDSC-CUI | React Native Developer | Ambassador at DeepLearning.Ai </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
