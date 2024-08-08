@@ -23,5 +23,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammadmaarij&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![committers.top badge](https://user-badge.committers.top/pakistan/muhammadmaarij.svg)](https://user-badge.committers.top/pakistan/muhammadmaarij)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
