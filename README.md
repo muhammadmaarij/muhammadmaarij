@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Maarij </h1>
+<h1 align="center">Hi, I'm Muhammad Maarij</h1>
 <h3 align="center">FullStack Engineer at Qlu.ai | PERN, Next.js, React Native, TypeScript, JavaScript | Blending Engaging User Experiences | Passionate about Innovation, Collaboration, and Building Impactful Solutions</h3>
 
 <h3 align="left">Connect with me:</h3>
