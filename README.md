@@ -16,7 +16,7 @@ I’m a Fullstack Engineer at **Qlu.ai**, working in a fast-paced startup enviro
 
 I specialize in designing scalable architectures, building high-performance APIs, and creating engaging user experiences across web and mobile platforms.
 
-I enjoy owning features end-to-end — from database design and backend logic to frontend architecture and deployment.
+I enjoy owning features end-to-end from database design and backend logic to frontend architecture.
 
 ---
 
@@ -43,7 +43,7 @@ React • Next.js • React Native • TypeScript • Redux • React Query
 Node.js • Express • PostgreSQL • MongoDB • Redis • Elasticsearch  
 
 **Tools & Workflow**  
-Docker • Git • CI/CD • Stripe • Cursor • CodeRabbit  
+Docker • Git • CI/CD  • Cursor • CodeRabbit  
 
 ---
 
