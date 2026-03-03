@@ -81,8 +81,8 @@ Docker • Git • CI/CD • Stripe • Cursor • CodeRabbit
 <a href="https://instagram.com/muhammad.maarij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad.maarij" height="30" width="40" /></a>
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=muhammadmaarij&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=muhammadmaarij&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![committers.top badge](https://user-badge.committers.top/pakistan_public/muhammadmaarij.svg)](https://user-badge.committers.top/pakistan_public/muhammadmaarij)
+<!-- [![committers.top badge](https://user-badge.committers.top/pakistan_public/muhammadmaarij.svg)](https://user-badge.committers.top/pakistan_public/muhammadmaarij)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
