@@ -26,7 +26,7 @@ I take ownership of features end-to-end from database design and backend archite
 - ⚡ Improved API performance by 40% through query optimization & indexing
 - 🔐 Designed centralized authentication & org-based access control systems
 - 🧠 Implemented streaming AI responses with real-time UI rendering
-- 📦 Contributed to large-scale modular frontend architecture
+- 📦 Contributed to scalable modular frontend architecture used across multiple applications
 - 🏗  Operated in a high-velocity startup environment with weekly production releases.
 
 
@@ -70,7 +70,6 @@ Docker • Git • CI/CD  • Cursor • CodeRabbit
 
 - AI-assisted development using Cursor  
 - Automated PR reviews with CodeRabbit  
-- Performance-first & scalable system mindset  
 
 ---
 
