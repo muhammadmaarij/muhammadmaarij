@@ -1,16 +1,69 @@
-<h1 align="center">Hi, I'm Muhammad Maarij </h1>
-<h3 align="center">FullStack Engineer at Qlu.ai | PERN, Next.js, React Native, TypeScript, JavaScript | Blending Engaging User Experiences | Passionate about Innovation, Collaboration, and Building Impactful Solutions</h3>
+<h1 align="center">Hi, I'm Muhammad Maarij 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammadmaarij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadmaarij" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammad.maarij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad.maarij" height="30" width="40" /></a>
+<h3 align="center">
+Fullstack Engineer building scalable AI-powered web & mobile products 🚀
+</h3>
+
+<p align="center">
+PERN Stack • Next.js • React Native • TypeScript • Performance & System Design
 </p>
 
+---
+
+## 🚀 About Me
+
+I’m a Fullstack Engineer at **Qlu.ai**, working in a fast-paced startup environment where I build and ship production-grade AI-powered products.
+
+I specialize in designing scalable architectures, building high-performance APIs, and creating engaging user experiences across web and mobile platforms.
+
+I enjoy owning features end-to-end — from database design and backend logic to frontend architecture and deployment.
+
+---
 
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🧠 Backend & Systems Experience
+
+- Node.js & Express APIs
+- PostgreSQL (Sequelize), MongoDB
+- Redis caching
+- BullMQ background workers
+- Elasticsearch integration
+- JWT auth, org-based access control
+- Third-party integrations & webhooks
+
+---
+
+## 💻 Tech Stack
+
+**Frontend**  
+React • Next.js • React Native • TypeScript • Redux • React Query  
+
+**Backend**  
+Node.js • Express • PostgreSQL • MongoDB • Redis • Elasticsearch  
+
+**Tools & Workflow**  
+Docker • Git • CI/CD • Stripe • Cursor • CodeRabbit  
+
+---
+
+## 🤖 Engineering Workflow
+
+- AI-assisted development using Cursor  
+- Automated PR reviews with CodeRabbit  
+- Performance-first & scalable system mindset  
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced system design  
+- High-performance backend architectures  
+- AI-driven product workflows  
+- Scalable SaaS infrastructure  
+
+---
+
 # 📊 GitHub Stats: 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmaarij&show_icons=true&locale=en&layout=compact" alt="muhammadmaarij" /></p>
@@ -21,8 +74,15 @@
 
 
 ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammadmaarij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadmaarij" height="30" width="40" /></a>
+<a href="https://instagram.com/muhammad.maarij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad.maarij" height="30" width="40" /></a>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=muhammadmaarij&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- [![committers.top badge](https://user-badge.committers.top/pakistan_public/muhammadmaarij.svg)](https://user-badge.committers.top/pakistan_public/muhammadmaarij)
+[![committers.top badge](https://user-badge.committers.top/pakistan_public/muhammadmaarij.svg)](https://user-badge.committers.top/pakistan_public/muhammadmaarij)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
