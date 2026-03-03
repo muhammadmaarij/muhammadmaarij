@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Maarij 👋</h1>
 
 <h3 align="center">
-Fullstack Engineer building scalable AI-powered web & mobile products 🚀
-I focus on building systems that scale, not just features that work.
+Fullstack Engineer building scalable AI-powered products with a performance-first mindset.
 </h3>
 
 <p align="center">
@@ -17,7 +16,7 @@ I’m a Fullstack Engineer at **Qlu.ai**, working in a fast-paced startup enviro
 
 I specialize in designing scalable architectures, building high-performance APIs, and creating engaging user experiences across web and mobile platforms.
 
-I enjoy owning features end-to-end from database design and backend logic to frontend architecture.
+I take ownership of features end-to-end from database design and backend architecture to polished frontend delivery.
 
 ---
 
@@ -28,7 +27,18 @@ I enjoy owning features end-to-end from database design and backend logic to fro
 - 🔐 Designed centralized authentication & org-based access control systems
 - 🧠 Implemented streaming AI responses with real-time UI rendering
 - 📦 Contributed to large-scale modular frontend architecture
-- 🏗 Worked in fast-paced startup environment shipping weekly releases
+- 🏗  Operated in a high-velocity startup environment with weekly production releases.
+
+
+## 🎯 What I Bring
+
+- End-to-end product ownership from architecture to deployment  
+- Performance-driven backend & API design  
+- Clean, scalable system architecture  
+- Production-grade debugging & optimization  
+- Startup execution speed with engineering discipline  
+
+---
 
 
 ## 🧠 Backend & Systems Experience
@@ -65,24 +75,6 @@ Docker • Git • CI/CD  • Cursor • CodeRabbit
 ---
 
 
-## 🎯 What I Bring
-
-- End-to-end product ownership  
-- Performance-first engineering mindset  
-- Clean architecture & scalable system design  
-- Strong debugging & production problem-solving  
-- Startup speed with production discipline
-
----
-
-## 🧠 Deep Focus Areas
-
-- Advanced system design  
-- High-performance backend architectures  
-- AI-driven product workflows  
-- Scalable SaaS infrastructure  
-
----
 
 # 📊 GitHub Stats: 
 
