@@ -8,7 +8,6 @@ Fullstack Engineer building scalable AI-powered products with a performance-firs
 PERN Stack • Next.js • React Native • TypeScript • Performance & System Design
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -18,7 +17,6 @@ I specialize in designing scalable architectures, building high-performance APIs
 
 I take ownership of features end-to-end from database design and backend architecture to polished frontend delivery.
 
----
 
 ## 📈 Impact & Ownership
 
@@ -38,7 +36,6 @@ I take ownership of features end-to-end from database design and backend archite
 - Production-grade debugging & optimization  
 - Startup execution speed with engineering discipline  
 
----
 
 
 ## 🧠 Backend & Systems Experience
@@ -51,8 +48,6 @@ I take ownership of features end-to-end from database design and backend archite
 - JWT auth, org-based access control
 - Third-party integrations & webhooks
 
----
-
 ## 💻 Tech Stack
 
 **Frontend**  
@@ -64,14 +59,12 @@ Node.js • Express • PostgreSQL • MongoDB • Redis • Elasticsearch
 **Tools & Workflow**  
 Docker • Git • CI/CD  • Cursor • CodeRabbit  
 
----
 
 ## 🤖 Engineering Workflow
 
 - AI-assisted development using Cursor  
 - Automated PR reviews with CodeRabbit  
 
----
 
 
 
