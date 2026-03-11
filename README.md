@@ -70,7 +70,7 @@ Docker • Git • CI/CD  • Cursor • CodeRabbit
 
 # 📊 GitHub Stats: 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmaarij&show_icons=true&locale=en&layout=compact" alt="muhammadmaarij" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmaarij&show_icons=true&locale=en&layout=compact" alt="muhammadmaarij" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmaarij&show_icons=true&locale=en" alt="muhammadmaarij" /></p> -->
 
