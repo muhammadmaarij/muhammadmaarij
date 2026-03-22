@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Maarij 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Maarij 👋 </h1>
 
 <h3 align="center">
 Fullstack Engineer building scalable AI-powered products with a performance-first mindset.
