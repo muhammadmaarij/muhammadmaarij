@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Maarij 👋 </h1>
 
 <h3 align="center">
-Fullstack Engineer building scalable AI-powered products with a performance-first mindset.
+Technical Lead building scalable, AI-powered systems with a performance-first mindset.
 </h3>
 
 <p align="center">
@@ -11,7 +11,7 @@ PERN Stack • Next.js • React Native • TypeScript • Performance & System 
 
 ## 🚀 About Me
 
-I’m a Fullstack Engineer at **Qlu.ai**, working in a fast-paced startup environment where I build and ship production-grade AI-powered products.
+I’m a Technical Lead at **Qlu.ai**, working in a fast-paced startup environment where I build and ship production-grade AI-powered products.
 
 I specialize in designing scalable architectures, building high-performance APIs, and creating engaging user experiences across web and mobile platforms.
 
@@ -20,7 +20,7 @@ I take ownership of features end-to-end from database design and backend archite
 
 ## 📈 Impact & Ownership
 
-- 🚀 Built and scaled AI-powered search systems used in production
+- 🚀 Led development of **flagship AI-powered systems** used in production  
 - ⚡ Improved API performance by 40% through query optimization & indexing
 - 🔐 Designed centralized authentication & org-based access control systems
 - 🧠 Implemented streaming AI responses with real-time UI rendering
@@ -30,6 +30,7 @@ I take ownership of features end-to-end from database design and backend archite
 
 ## 🎯 What I Bring
 
+- Technical leadership & system-level thinking  
 - End-to-end product ownership from architecture to deployment  
 - Performance-driven backend & API design  
 - Clean, scalable system architecture  
