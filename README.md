@@ -25,7 +25,7 @@ I take ownership of features end-to-end from database design and backend archite
 - 🔐 Designed centralized authentication & org-based access control systems
 - 🧠 Implemented streaming AI responses with real-time UI rendering
 - 📦 Contributed to scalable modular frontend architecture used across multiple applications
-- 🏗  Operated in a high-velocity startup environment with weekly production releases.
+- 🏗  Operated in a high-velocity startup environment with weekly to daily production releases.
 
 
 ## 🎯 What I Bring
