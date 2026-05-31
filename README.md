@@ -82,6 +82,7 @@ Docker • Git • CI/CD  • Cursor • CodeRabbit
 <p align="left">
 <a href="https://linkedin.com/in/muhammadmaarij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadmaarij" height="30" width="40" /></a> 
   <br />
+  <br />
 <a href="https://instagram.com/muhammad.maarij" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad.maarij" height="30" width="40" /></a>
 </p>
 
