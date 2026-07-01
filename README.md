@@ -1,70 +1,69 @@
-<h1 align="center">Hi, I'm Muhammad Maarij 👋 </h1>
+Hi, I’m Muhammad Maarij 👋
 
-<h3 align="center">
-Technical Lead building scalable, AI-powered systems with a performance-first mindset.
-</h3>
+Technical Lead & Full-Stack Engineer building scalable, AI-powered systems with a performance-first mindset.
 
-<p align="center">
-PERN Stack • Next.js • React Native • TypeScript • Performance & System Design
-</p>
+PERN Stack · Next.js · React Native · TypeScript · System Design · Performance Engineering
 
+🚀 About Me
 
-## 🚀 About Me
+I’m a Technical Lead at Qlu.ai, working in a fast-paced startup environment where I build and ship production-grade AI and SaaS products.
 
-I’m a Technical Lead at **Qlu.ai**, working in a fast-paced startup environment where I build and ship production-grade AI-powered products.
+My work spans frontend architecture, backend systems, AI-powered workflows, search infrastructure, authentication, subscriptions, and performance optimization.
 
-I specialize in designing scalable architectures, building high-performance APIs, and creating engaging user experiences across web and mobile platforms.
+I take ownership of features end-to-end — from database design, backend architecture, API development, and system integrations to polished frontend delivery across web and mobile platforms.
 
-I take ownership of features end-to-end from database design and backend architecture to polished frontend delivery.
+📈 Impact & Ownership
+🚀 Led development across flagship AI-powered product areas including People Search, Company Search, True AI, and Triggers
+⚡ Improved real-time search and discovery performance by 40%
+🔎 Optimized REST APIs, data models, and Elasticsearch integrations, reducing query response time by 50%
+🔐 Designed centralized authentication, subscriptions, RBAC, and organization-based access control systems
+🧠 Built streaming AI experiences with real-time UI rendering using EventSource APIs
+📦 Contributed to a reusable UI component library with 400+ modular components
+🏗 Worked in a high-velocity startup environment with frequent production releases
+👨‍💻 Mentored engineers through code reviews, implementation guidance, and engineering best practices
+🎯 What I Bring
+Technical leadership with system-level thinking
+End-to-end product ownership from architecture to deployment
+Performance-driven backend and API design
+Clean, scalable frontend and backend architecture
+Production-grade debugging, optimization, and delivery
+Strong collaboration across engineering, product, and design teams
+Startup execution speed with engineering discipline
+🧠 Backend & Systems Experience
+Node.js and Express APIs
+PostgreSQL with Sequelize
+MongoDB
+Redis caching
+BullMQ background workers
+Elasticsearch search and indexing
+JWT authentication and RBAC
+Organization-based access control
+Third-party integrations and webhooks
+Stripe, Firebase, Apollo, ContactOut, and PDL integrations
+💻 Tech Stack
+Frontend
 
+React · Next.js · React Native · TypeScript · Redux Toolkit · React Query · SCSS
 
-## 📈 Impact & Ownership
+Backend
 
-- 🚀 Led development of **flagship AI-powered systems** used in production  
-- ⚡ Improved API performance by 40% through query optimization & indexing
-- 🔐 Designed centralized authentication & org-based access control systems
-- 🧠 Implemented streaming AI responses with real-time UI rendering
-- 📦 Contributed to scalable modular frontend architecture used across multiple applications
-- 🏗  Operated in a high-velocity startup environment with weekly to daily production releases.
+Node.js · Express.js · PostgreSQL · MongoDB · Redis · Elasticsearch · REST APIs
 
+Tools & Workflow
 
-## 🎯 What I Bring
+Docker · Git · GitHub · CI/CD · Firebase · Stripe · GCP · Cursor · CodeRabbit
 
-- Technical leadership & system-level thinking  
-- End-to-end product ownership from architecture to deployment  
-- Performance-driven backend & API design  
-- Clean, scalable system architecture  
-- Production-grade debugging & optimization  
-- Startup execution speed with engineering discipline  
-
-
-
-## 🧠 Backend & Systems Experience
-
-- Node.js & Express APIs
-- PostgreSQL (Sequelize), MongoDB
-- Redis caching
-- BullMQ background workers
-- Elasticsearch integration
-- JWT auth, org-based access control
-- Third-party integrations & webhooks
-
-## 💻 Tech Stack
-
-**Frontend**  
-React • Next.js • React Native • TypeScript • Redux • React Query  
-
-**Backend**  
-Node.js • Express • PostgreSQL • MongoDB • Redis • Elasticsearch  
-
-**Tools & Workflow**  
-Docker • Git • CI/CD  • Cursor • CodeRabbit  
-
-
-## 🤖 Engineering Workflow
-
-- AI-assisted development using Cursor  
-- Automated PR reviews with CodeRabbit  
+🤖 Engineering Workflow
+AI-assisted development using Cursor
+Automated PR reviews with CodeRabbit
+Code reviews focused on quality, scalability, maintainability, and performance
+Fast iteration with production-readiness in mind
+🌱 Current Focus
+Building AI-powered SaaS products
+Scaling backend systems and search infrastructure
+Improving frontend architecture and reusable component systems
+Designing reliable auth, subscription, and access-control flows
+Growing as a technical leader while staying hands-on with engineering
 
 
 
